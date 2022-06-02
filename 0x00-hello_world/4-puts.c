@@ -1,7 +1,11 @@
 #include <stdio.h>
+
 /**
- * main - prints exactly "and that piece of art is useful"
-*/
+ * main - prints exactly
+ * Programming is like building a multilingual puzzle
+ * followed by a new line, to the standard error.
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
